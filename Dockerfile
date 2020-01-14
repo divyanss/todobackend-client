@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20150228.11 
 MAINTAINER Justin Menga <justin.menga@gmail.com>
 
 # Prevent dpkg errors
